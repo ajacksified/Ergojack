@@ -53,4 +53,7 @@ natural resting position, becomes space; while capslock becomes control. That
 makes running, jumping, etc as natural as any other keyboard. It also swaps
 the top left "=" for an ESC button.
 
+I'm too chicken to swap to Dvorak or Colemak or Workman or something quite yet.
+Maybe someday.
+
 ![Picture of the actual keyboard](./keyboard.jpg)
